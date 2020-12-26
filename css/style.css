@@ -1,6 +1,6 @@
 body {
 
-	background: #efefef;
+	background: #ffffad;
 	font-family: arial;
 
      }
@@ -12,7 +12,7 @@ body {
 	text-decoration :underline;
      }
      a:hover {
-	   color:  #003400;
+	   color:  #000000;
 	   text-decoration: none;
      }
       h2  {
