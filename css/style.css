@@ -1,15 +1,14 @@
+
 body {
 
-	background: #FCE77C;
-	font-family: Oswald;
+	background: #507C36;
+	font-family: Algerian;
 
      }
-    h1  
-	 font-size:18px;
-     }
+
     a:link,a:visited
 {
-	background-color: cadetblue;
+	background-color: black;
 	color:whitesmoke;
 	padding: 15px;
 	text-align: center;
@@ -17,18 +16,9 @@ body {
 	display: inline-block;
 }
 
-
 a:hover,a:active
 {
-background-color:#7A991A;
+background-color:darkgreen;
 }
-      h2  {
-	   font-size: 25px;
-
-     }
-     p  {
-	 font-size:14px;
-     }
-	
-
+     
 	
