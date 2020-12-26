@@ -1,5 +1,12 @@
 
 <style>/* Stylesheet 2: */
+
+<style>
+div {
+  background-image: url('alkimbackground');
+}
+</style>
+
 body {
     font-family: Arial;
     background-color: #d14836;
